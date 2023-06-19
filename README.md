@@ -18,7 +18,7 @@ Para criar esse projeto foram utilizados os seguintes passos:
 
 * Esses foram os assets baixados para o projeto
 
-<img src="img/assets.jpeg"/>
+<img src="img/1.jpeg"/>
 
 2. Colocar os game objects na cena.
 
