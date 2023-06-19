@@ -24,16 +24,18 @@ Para criar esse projeto foram utilizados os seguintes passos:
 
 * Para a cena foi adicionados todos os moveis que tem em um quarto além de mudar a textura do chão para deixar como se fosse lava.
 
-<img src="img/cena.jpeg"/>
+<img src="img/2.jpeg"/>
 
 * Colocar o personagem que irá receber os scripts
+
+<img src="img/3.jpeg"/>
 
 3.criar os scripts e programar
 
 * Foram criador 3 scripts
 
-<img src="img/script1.jpeg"/>
-<img src="img/script2.jpeg"/>
+<img src="img/4.jpeg"/>
+<img src="img/5.jpeg"/>
 
 Controlador de Câmera
 
